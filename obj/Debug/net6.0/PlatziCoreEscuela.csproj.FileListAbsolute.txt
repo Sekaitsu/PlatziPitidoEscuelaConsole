@@ -1,0 +1,15 @@
+C:\Users\lbernate\Desktop\platzi\PlatziCoreEscuela\obj\Debug\net6.0\PlatziCoreEscuela.csproj.AssemblyReference.cache
+C:\Users\lbernate\Desktop\platzi\PlatziCoreEscuela\obj\Debug\net6.0\PlatziCoreEscuela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbernate\Desktop\platzi\PlatziCoreEscuela\obj\Debug\net6.0\PlatziCoreEscuela.AssemblyInfoInputs.cache
+C:\Users\lbernate\Desktop\platzi\PlatziCoreEscuela\obj\Debug\net6.0\PlatziCoreEscuela.AssemblyInfo.cs
+C:\Users\lbernate\Desktop\platzi\PlatziCoreEscuela\obj\Debug\net6.0\PlatziCoreEscuela.csproj.CoreCompileInputs.cache
+C:\Users\lbernate\Desktop\platzi\PlatziCoreEscuela\bin\Debug\net6.0\PlatziCoreEscuela.exe
+C:\Users\lbernate\Desktop\platzi\PlatziCoreEscuela\bin\Debug\net6.0\PlatziCoreEscuela.deps.json
+C:\Users\lbernate\Desktop\platzi\PlatziCoreEscuela\bin\Debug\net6.0\PlatziCoreEscuela.runtimeconfig.json
+C:\Users\lbernate\Desktop\platzi\PlatziCoreEscuela\bin\Debug\net6.0\PlatziCoreEscuela.dll
+C:\Users\lbernate\Desktop\platzi\PlatziCoreEscuela\bin\Debug\net6.0\PlatziCoreEscuela.pdb
+C:\Users\lbernate\Desktop\platzi\PlatziCoreEscuela\obj\Debug\net6.0\PlatziCoreEscuela.dll
+C:\Users\lbernate\Desktop\platzi\PlatziCoreEscuela\obj\Debug\net6.0\refint\PlatziCoreEscuela.dll
+C:\Users\lbernate\Desktop\platzi\PlatziCoreEscuela\obj\Debug\net6.0\PlatziCoreEscuela.pdb
+C:\Users\lbernate\Desktop\platzi\PlatziCoreEscuela\obj\Debug\net6.0\PlatziCoreEscuela.genruntimeconfig.cache
+C:\Users\lbernate\Desktop\platzi\PlatziCoreEscuela\obj\Debug\net6.0\ref\PlatziCoreEscuela.dll
